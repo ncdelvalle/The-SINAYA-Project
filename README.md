@@ -1,2 +1,2 @@
 # The-SINAYA-Project
- A TENSORFLOW-BASED FUZZY NEURAL NETWORK AS A INFERENTIAL REGRESSION MODEL FOR AMMONIA LEVEL IN MARICULTURE WATER QUALITY
+ A  Tensorflow-based Fuzzy Neural Network as an Inferential Regression Model for Ammonia Level in Mariculture Water Quality
